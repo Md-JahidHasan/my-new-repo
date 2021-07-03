@@ -2,3 +2,8 @@ h1{
     background-color:red;
     color: chartreuse;
 }
+p{
+    background-origin: padding-box;
+    border: chartreuse solid;
+
+}
